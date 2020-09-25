@@ -1,22 +1,8 @@
-[01:43:48] [User Authenticator #9/INFO]: UUID of player tannerd88 is e0436caf-67d5-4325-85f0-1e0aff6dc16e
-[01:43:48] [Server thread/INFO]: tannerd88[/209.6.44.49:65441] logged in with entity id 58417 at (-4324.887077180751, 66.0, -1388.0080630014188)
-[01:43:48] [Server thread/INFO]: tannerd88 joined the game
-[01:43:58] [Server thread/INFO]: tannerd88 lost connection: Disconnected
-[01:43:58] [Server thread/INFO]: tannerd88 left the game
-[22:09:53] [User Authenticator #10/INFO]: UUID of player papajohnxiiv is c473b258-b583-4d22-b435-f516c3b7e0c6
-[22:09:53] [Server thread/INFO]: papajohnxiiv[/45.56.142.168:65211] logged in with entity id 58641 at (-4261.283449502196, 87.0, -1504.5759073530244)
-[22:09:53] [Server thread/INFO]: papajohnxiiv joined the game
-[22:11:40] [Server thread/INFO]: papajohnxiiv lost connection: Disconnected
-[22:11:40] [Server thread/INFO]: papajohnxiiv left the game
-[22:11:54] [User Authenticator #11/INFO]: UUID of player papajohnxiiv is c473b258-b583-4d22-b435-f516c3b7e0c6
-[22:11:54] [Server thread/INFO]: papajohnxiiv[/45.56.142.168:65513] logged in with entity id 59403 at (-4304.606917956415, 69.0, -1389.7900152916902)
-[22:11:54] [Server thread/INFO]: papajohnxiiv joined the game
-[23:07:18] [Server thread/WARN]: Trying to add entity with duplicated UUID 2227a425-8f4e-40e2-8366-8d93814977f7. Existing minecraft:armor_stand#67431, new: minecraft:armor_stand#67431
-[23:07:31] [Server thread/INFO]: papajohnxiiv has made the advancement [Cover Me With Diamonds]
-[23:08:52] [Server thread/WARN]: Trying to add entity with duplicated UUID 5277dca9-b98b-40f4-9dba-61702b8dece6. Existing minecraft:armor_stand#67604, new: minecraft:armor_stand#67604
-[23:10:01] [Server thread/WARN]: Trying to add entity with duplicated UUID f04b3006-2702-4981-8d36-ba118bce4175. Existing minecraft:armor_stand#67712, new: minecraft:armor_stand#67712
-[23:10:10] [Server thread/WARN]: Trying to add entity with duplicated UUID 55476b45-5095-468a-9356-8ef3b1b94f33. Existing minecraft:armor_stand#67724, new: minecraft:armor_stand#67724
-[23:10:17] [Server thread/WARN]: Trying to add entity with duplicated UUID 8083cfbe-1889-4f51-9a45-a8ed0d31f541. Existing minecraft:armor_stand#67749, new: minecraft:armor_stand#67749
-[23:11:37] [Server thread/INFO]: [papajohnxiiv: Saved the game]
-[23:11:42] [Server thread/INFO]: papajohnxiiv lost connection: Disconnected
-[23:11:42] [Server thread/INFO]: papajohnxiiv left the game
+[00:40:48] [User Authenticator #12/INFO]: UUID of player tannerd88 is e0436caf-67d5-4325-85f0-1e0aff6dc16e
+[00:40:48] [Server thread/INFO]: tannerd88[/209.6.44.49:50593] logged in with entity id 67912 at (-4319.629877346516, 66.0, -1395.9815485744612)
+[00:40:48] [Server thread/INFO]: tannerd88 joined the game
+[00:41:13] [Server thread/INFO]: tannerd88 lost connection: Disconnected
+[00:41:13] [Server thread/INFO]: tannerd88 left the game
+[00:53:39] [User Authenticator #13/INFO]: UUID of player papajohnxiiv is c473b258-b583-4d22-b435-f516c3b7e0c6
+[00:53:39] [Server thread/INFO]: papajohnxiiv[/45.56.142.7:51133] logged in with entity id 68217 at (-4267.6744764885, 87.0, -1504.3030276004313)
+[00:53:39] [Server thread/INFO]: papajohnxiiv joined the game
