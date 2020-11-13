@@ -1,5 +1,98 @@
-[19:48:39] [User Authenticator #7/INFO]: UUID of player kittensbolf is 0c1ce21c-1534-4ad3-94a8-17454b42ca32
-[19:48:39] [Server thread/INFO]: kittensbolf[/139.162.169.120:53992] logged in with entity id 42282 at (-102.5, 67.0, 87.5)
-[19:48:39] [Server thread/INFO]: kittensbolf joined the game
-[19:48:39] [Server thread/INFO]: kittensbolf lost connection: Disconnected
-[19:48:39] [Server thread/INFO]: kittensbolf left the game
+[01:30:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[01:30:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:30:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:30:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:30:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:30:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:30:47] [main/INFO]: Reloading ResourceManager: Default
+[01:30:48] [Worker-Main-2/INFO]: Loaded 7 recipes
+[01:30:49] [Worker-Main-2/INFO]: Loaded 927 advancements
+[01:30:51] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[01:30:51] [Server thread/INFO]: Loading properties
+[01:30:51] [Server thread/INFO]: Default game type: SURVIVAL
+[01:30:51] [Server thread/INFO]: Generating keypair
+[01:30:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:30:51] [Server thread/INFO]: Using epoll channel type
+[01:30:51] [Server thread/INFO]: Preparing level "world"
+[01:30:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:30:53] [Server thread/INFO]: Preparing spawn area: 0%
+[01:30:53] [Server thread/INFO]: Preparing spawn area: 0%
+[01:30:53] [Server thread/INFO]: Preparing spawn area: 0%
+[01:30:53] [Server thread/INFO]: Preparing spawn area: 0%
+[01:30:54] [Server thread/INFO]: Preparing spawn area: 0%
+[01:30:57] [Worker-Main-2/INFO]: Preparing spawn area: 79%
+[01:30:57] [Server thread/INFO]: Preparing spawn area: 79%
+[01:30:57] [Server thread/INFO]: Preparing spawn area: 79%
+[01:30:57] [Server thread/INFO]: Preparing spawn area: 79%
+[01:30:57] [Worker-Main-2/INFO]: Preparing spawn area: 79%
+[01:30:57] [Worker-Main-2/INFO]: Preparing spawn area: 79%
+[01:30:57] [Server thread/INFO]: Preparing spawn area: 79%
+[01:30:58] [Worker-Main-2/INFO]: Preparing spawn area: 99%
+[01:30:58] [Server thread/INFO]: Time elapsed: 6381 ms
+[01:30:58] [Server thread/INFO]: Done (6.558s)! For help, type "help"
+[01:30:58] [Server thread/INFO]: Starting GS4 status listener
+[01:30:58] [Server thread/INFO]: Thread Query Listener started
+[01:30:58] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[01:31:08] [User Authenticator #1/INFO]: UUID of player tannerd88 is e0436caf-67d5-4325-85f0-1e0aff6dc16e
+[01:31:08] [Server thread/INFO]: tannerd88[/209.6.44.49:54372] logged in with entity id 200 at (-4646.9477892225495, 98.8753596909234, -725.2417741642666)
+[01:31:08] [Server thread/INFO]: tannerd88 joined the game
+[01:31:13] [User Authenticator #2/INFO]: UUID of player papajohnxiiv is c473b258-b583-4d22-b435-f516c3b7e0c6
+[01:31:14] [Server thread/INFO]: papajohnxiiv[/98.243.7.16:57168] logged in with entity id 368 at (-4614.3458738163945, 108.57839650293396, -737.1689283613805)
+[01:31:14] [Server thread/INFO]: papajohnxiiv joined the game
+[01:52:16] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[01:52:16] [Server thread/WARN]: Entity aah['papajohnxiiv'/368, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[01:52:18] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4609.544, 68.0, -673.647]
+[01:52:21] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[01:52:21] [Server thread/WARN]: Entity aah['papajohnxiiv'/368, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[01:52:24] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4609.544, 68.0, -673.647]
+[01:52:27] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[01:52:27] [Server thread/WARN]: Entity aah['papajohnxiiv'/368, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[01:52:29] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4609.544, 68.0, -673.647]
+[01:52:32] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[01:52:32] [Server thread/WARN]: Entity aah['papajohnxiiv'/368, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[01:52:35] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4609.544, 68.0, -673.647]
+[01:52:37] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[01:52:37] [Server thread/WARN]: Entity aah['papajohnxiiv'/368, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[01:52:39] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4609.544, 68.0, -673.647]
+[01:52:41] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[01:52:41] [Server thread/WARN]: Entity aah['papajohnxiiv'/368, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[01:52:43] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4609.544, 68.0, -673.647]
+[01:52:46] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[01:52:46] [Server thread/WARN]: Entity aah['papajohnxiiv'/368, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[01:52:48] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4609.544, 68.0, -673.647]
+[01:52:51] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[01:52:51] [Server thread/WARN]: Entity aah['papajohnxiiv'/368, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[01:52:53] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4609.544, 68.0, -673.647]
+[02:07:54] [Server thread/INFO]: papajohnxiiv fell out of the world
+[02:09:00] [Server thread/INFO]: [papajohnxiiv: Teleported papajohnxiiv to tannerd88]
+[02:19:34] [Server thread/INFO]: [tannerd88: Teleported tannerd88 to papajohnxiiv]
+[02:33:25] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[02:33:25] [Server thread/WARN]: Entity aah['papajohnxiiv'/368, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[02:33:40] [Server thread/INFO]: [tannerd88: Teleported tannerd88 to papajohnxiiv]
+[02:35:22] [Server thread/INFO]: [papajohnxiiv: Teleported papajohnxiiv to tannerd88]
+[02:37:05] [Server thread/INFO]: [papajohnxiiv: Teleported papajohnxiiv to tannerd88]
+[02:39:07] [Server thread/INFO]: [tannerd88: Teleported tannerd88 to papajohnxiiv]
+[02:42:32] [Server thread/INFO]: [@: Teleported papajohnxiiv to tannerd88]
+[02:44:24] [Server thread/INFO]: [@: Teleported tannerd88 to tannerd88]
+[02:44:26] [Server thread/INFO]: [@: Teleported tannerd88 to tannerd88]
+[02:44:28] [Server thread/INFO]: [@: Teleported tannerd88 to tannerd88]
+[02:44:30] [Server thread/INFO]: [@: Teleported tannerd88 to tannerd88]
+[02:44:31] [Server thread/INFO]: [@: Teleported tannerd88 to tannerd88]
+[02:49:35] [Server thread/INFO]: [@: Teleported papajohnxiiv to tannerd88]
+[02:50:02] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4609.544, 68.0, -673.647]
+[02:50:02] [Server thread/WARN]: Entity aah['papajohnxiiv'/368, l='ServerLevel[world]', x=-4609.54, y=68.00, z=-673.65] left loaded chunk area
+[02:50:23] [Server thread/INFO]: [tannerd88: Teleported tannerd88 to papajohnxiiv]
+[02:50:36] [Server thread/INFO]: [@: Teleported tannerd88 to -4329.431, 66.0, -1394.204]
+[02:50:36] [Server thread/WARN]: Entity aah['tannerd88'/200, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[02:52:42] [Server thread/INFO]: [tannerd88: Teleported tannerd88 to papajohnxiiv]
+[02:53:35] [Server thread/INFO]: [@: Teleported tannerd88 to -4329.431, 66.0, -1394.204]
+[02:53:35] [Server thread/WARN]: Entity aah['tannerd88'/200, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[02:53:37] [Server thread/INFO]: [@: Teleported tannerd88 to -4609.544, 68.0, -673.647]
+[03:18:01] [Server thread/INFO]: Villager bfg['Villager'/20002, l='ServerLevel[world]', x=-4610.04, y=68.00, z=-675.37] died, message: 'Villager was slain by Zombie'
+[03:24:19] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[03:24:19] [Server thread/WARN]: Entity aah['papajohnxiiv'/368, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[03:24:40] [Server thread/INFO]: [@: Teleported tannerd88 to -4329.431, 66.0, -1394.204]
+[03:24:43] [Server thread/INFO]: tannerd88 lost connection: Disconnected
+[03:24:43] [Server thread/INFO]: tannerd88 left the game
+[03:25:03] [Server thread/INFO]: papajohnxiiv lost connection: Disconnected
+[03:25:03] [Server thread/INFO]: papajohnxiiv left the game

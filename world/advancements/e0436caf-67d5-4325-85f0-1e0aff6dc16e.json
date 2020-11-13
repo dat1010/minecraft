@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-11-13 03:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-09-18 23:47:39 +0000"
@@ -395,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-11-13 01:55:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2020-09-18 00:54:45 +0000"
@@ -566,12 +578,20 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-09-18 23:50:00 +0000",
+      "minecraft:zoglin": "2020-11-13 03:17:33 +0000",
       "minecraft:vindicator": "2020-09-25 02:04:15 +0000",
       "minecraft:spider": "2020-09-18 02:16:12 +0000",
       "minecraft:creeper": "2020-09-18 23:49:42 +0000",
       "minecraft:evoker": "2020-09-25 02:05:02 +0000",
+      "minecraft:phantom": "2020-11-13 02:27:59 +0000",
+      "minecraft:zombified_piglin": "2020-11-13 03:20:22 +0000",
+      "minecraft:husk": "2020-11-13 03:17:04 +0000",
       "minecraft:enderman": "2020-09-25 01:17:21 +0000",
-      "minecraft:zombie": "2020-09-18 23:49:31 +0000"
+      "minecraft:stray": "2020-11-13 03:20:33 +0000",
+      "minecraft:vex": "2020-11-13 03:19:09 +0000",
+      "minecraft:zombie": "2020-09-18 23:49:31 +0000",
+      "minecraft:drowned": "2020-11-13 03:22:44 +0000",
+      "minecraft:zombie_villager": "2020-11-13 03:12:33 +0000"
     },
     "done": false
   },
