@@ -1,9 +1,80 @@
-[03:11:15] [User Authenticator #8/INFO]: UUID of player tannerd88 is e0436caf-67d5-4325-85f0-1e0aff6dc16e
-[03:11:15] [Server thread/INFO]: tannerd88[/209.6.44.49:64890] logged in with entity id 33033 at (-4668.152878087577, 65.0, -753.3943698553107)
-[03:11:15] [Server thread/INFO]: tannerd88 joined the game
-[03:12:30] [Server thread/INFO]: [@: Teleported tannerd88 to -4329.431, 66.0, -1394.204]
-[03:12:30] [Server thread/WARN]: Entity aah['tannerd88'/33033, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
-[03:22:53] [Server thread/INFO]: [tannerd88: Saved the game]
-[03:23:44] [Server thread/INFO]: [tannerd88: Saved the game]
-[03:23:46] [Server thread/INFO]: tannerd88 lost connection: Disconnected
-[03:23:46] [Server thread/INFO]: tannerd88 left the game
+[00:07:11] [User Authenticator #9/INFO]: UUID of player tannerd88 is e0436caf-67d5-4325-85f0-1e0aff6dc16e
+[00:07:11] [Server thread/INFO]: tannerd88[/209.6.44.49:51612] logged in with entity id 35625 at (-4316.608634925197, 70.0, -1396.7661691278997)
+[00:07:11] [Server thread/INFO]: tannerd88 joined the game
+[00:07:24] [Server thread/INFO]: [@: Teleported tannerd88 to -4609.544, 68.0, -673.647]
+[00:07:24] [Server thread/WARN]: Entity aah['tannerd88'/35625, l='ServerLevel[world]', x=-4609.54, y=68.00, z=-673.65] left loaded chunk area
+[00:40:40] [Server thread/INFO]: [tannerd88: Set the time to 1000]
+[00:47:51] [User Authenticator #10/INFO]: UUID of player papajohnxiiv is c473b258-b583-4d22-b435-f516c3b7e0c6
+[00:47:51] [Server thread/INFO]: papajohnxiiv[/98.243.7.16:50322] logged in with entity id 41496 at (-4257.032599132693, 81.0, -1501.0181108793588)
+[00:47:51] [Server thread/INFO]: papajohnxiiv joined the game
+[00:51:08] [Server thread/INFO]: [tannerd88: Set the time to 1000]
+[00:52:26] [Server thread/INFO]: [papajohnxiiv: Teleported papajohnxiiv to tannerd88]
+[01:00:41] [Server thread/INFO]: [tannerd88: Set the time to 1000]
+[01:09:42] [Server thread/INFO]: tannerd88 has made the advancement [Best Friends Forever]
+[01:10:25] [Server thread/INFO]: [tannerd88: Set the time to 1000]
+[01:10:52] [Server thread/INFO]: papajohnxiiv has made the advancement [Best Friends Forever]
+[01:16:29] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.42357434397763427
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.2511483503594718
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.4088010115574434
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.4036542182766425
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.40090027180849575
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.3994266899608192
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.39863820569462405
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.39821630348433246
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.3979905520227476
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.3978697569173164
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.39780512186462147
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.39777053693705966
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.6705582584381773
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.37729364972801704
+[01:18:47] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.5214682437817828
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.4644361955324712
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.4343696329251543
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.4186858180846684
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.4109621297729973
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.40748871398136544
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.40575537641507253
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.4029629784236022
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.39685288569398836
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.3844239843738251
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.3701583127822232
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.36156777402266016
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.29626348031251837
+[01:18:48] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.2609248303924687
+[01:20:00] [Server thread/WARN]: Horse (vehicle of tannerd88) moved wrongly! 0.32176607390829304
+[01:20:29] [Server thread/INFO]: [tannerd88: Set the time to 1000]
+[01:31:09] [Server thread/INFO]: [tannerd88: Set the time to 1000]
+[01:31:25] [Server thread/INFO]: [tannerd88: Set the time to 13000]
+[01:35:06] [Server thread/INFO]: [tannerd88: Set the time to 1000]
+[01:35:11] [Server thread/INFO]: [tannerd88: Set the time to 13000]
+[01:35:34] [Server thread/INFO]: [tannerd88: Set the time to 18000]
+[02:25:59] [Server thread/WARN]: tannerd88 moved too quickly! 1.7320971648878185,-1.479772153223891,-9.874256473068499
+[02:50:26] [Server thread/INFO]: [@: Teleported tannerd88 to -4629.5, 66.0, -775.5]
+[02:50:26] [Server thread/WARN]: Entity aah['tannerd88'/35625, l='ServerLevel[world]', x=-4629.50, y=66.00, z=-775.50] left loaded chunk area
+[02:50:38] [Server thread/INFO]: [tannerd88: Teleported tannerd88 to papajohnxiiv]
+[02:50:38] [Server thread/WARN]: tannerd88 moved too quickly! -673.9394914599015,50.256682137067514,1216.9736349247532
+[02:52:24] [Server thread/INFO]: [@: Teleported tannerd88 to -4629.5, 66.0, -775.5]
+[02:52:24] [Server thread/WARN]: Entity aah['tannerd88'/35625, l='ServerLevel[world]', x=-4629.50, y=66.00, z=-775.50] left loaded chunk area
+[02:52:53] [Server thread/INFO]: [tannerd88: Teleported tannerd88 to papajohnxiiv]
+[02:54:01] [Server thread/INFO]: [@: Teleported tannerd88 to -4629.5, 66.0, -775.5]
+[02:54:01] [Server thread/WARN]: Entity aah['tannerd88'/35625, l='ServerLevel[world]', x=-4629.50, y=66.00, z=-775.50] left loaded chunk area
+[02:54:16] [Server thread/INFO]: [@: Teleported tannerd88 to -4329.431, 66.0, -1394.204]
+[02:54:16] [Server thread/WARN]: Entity aah['tannerd88'/35625, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[02:55:24] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4629.5, 66.0, -775.5]
+[02:55:24] [Server thread/WARN]: Entity aah['papajohnxiiv'/41496, l='ServerLevel[world]', x=-4629.50, y=66.00, z=-775.50] left loaded chunk area
+[02:56:22] [Server thread/INFO]: [@: Teleported tannerd88 to -4609.544, 68.0, -673.647]
+[02:57:17] [Server thread/INFO]: [papajohnxiiv: Teleported papajohnxiiv to tannerd88]
+[02:57:35] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[02:57:35] [Server thread/WARN]: Entity aah['papajohnxiiv'/41496, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[02:57:38] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4609.544, 68.0, -673.647]
+[02:57:39] [Server thread/INFO]: [@: Teleported tannerd88 to -5269.5, 107.0, 468.5]
+[02:57:39] [Server thread/WARN]: Entity aah['tannerd88'/35625, l='ServerLevel[world]', x=-5269.50, y=107.00, z=468.50] left loaded chunk area
+[02:57:41] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4329.431, 66.0, -1394.204]
+[02:57:41] [Server thread/WARN]: Entity aah['papajohnxiiv'/41496, l='ServerLevel[world]', x=-4329.43, y=66.00, z=-1394.20] left loaded chunk area
+[02:57:43] [Server thread/INFO]: [@: Teleported papajohnxiiv to -4609.544, 68.0, -673.647]
+[02:57:46] [Server thread/INFO]: [@: Teleported papajohnxiiv to -5269.5, 107.0, 468.5]
+[03:14:19] [Server thread/INFO]: papajohnxiiv lost connection: Disconnected
+[03:14:19] [Server thread/INFO]: papajohnxiiv left the game
+[03:14:23] [Server thread/INFO]: [tannerd88: Saved the game]
+[03:14:29] [Server thread/INFO]: tannerd88 lost connection: Disconnected
+[03:14:29] [Server thread/INFO]: tannerd88 left the game
