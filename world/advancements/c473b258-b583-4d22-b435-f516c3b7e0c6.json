@@ -550,6 +550,7 @@
       "minecraft:cold_ocean": "2020-09-18 00:27:38 +0000",
       "minecraft:forest": "2020-09-17 22:55:56 +0000",
       "minecraft:mountains": "2020-09-17 23:39:52 +0000",
+      "minecraft:taiga": "2020-12-31 01:50:36 +0000",
       "minecraft:desert_hills": "2020-09-18 00:00:23 +0000",
       "minecraft:deep_cold_ocean": "2020-09-18 00:28:50 +0000",
       "minecraft:desert": "2020-09-18 00:00:15 +0000",
@@ -777,6 +778,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-12-11 02:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-31 01:25:46 +0000"
     },
     "done": true
   },

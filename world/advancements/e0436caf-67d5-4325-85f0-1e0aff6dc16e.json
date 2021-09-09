@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-12-31 02:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-09-25 02:08:00 +0000"
@@ -1168,14 +1174,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-09-18 00:27:37 +0000",
+      "minecraft:snowy_mountains": "2020-12-31 00:45:33 +0000",
       "minecraft:forest": "2020-09-17 22:54:22 +0000",
       "minecraft:mountains": "2020-09-17 23:39:50 +0000",
       "minecraft:taiga": "2020-09-18 02:22:53 +0000",
       "minecraft:desert_hills": "2020-09-18 00:06:02 +0000",
       "minecraft:deep_cold_ocean": "2020-09-18 00:29:00 +0000",
+      "minecraft:snowy_tundra": "2020-12-31 00:45:48 +0000",
       "minecraft:desert": "2020-09-18 00:00:17 +0000",
+      "minecraft:frozen_river": "2020-12-31 00:46:56 +0000",
       "minecraft:deep_frozen_ocean": "2020-09-18 00:28:05 +0000",
       "minecraft:birch_forest": "2020-09-17 23:38:54 +0000",
+      "minecraft:snowy_beach": "2020-12-31 00:45:26 +0000",
       "minecraft:warm_ocean": "2020-09-18 00:39:46 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-09-18 23:59:54 +0000",
       "minecraft:savanna_plateau": "2020-09-18 00:19:59 +0000",
@@ -1183,10 +1193,14 @@
       "minecraft:dark_forest": "2020-09-17 23:51:56 +0000",
       "minecraft:river": "2020-09-17 23:15:34 +0000",
       "minecraft:lukewarm_ocean": "2020-09-18 00:39:04 +0000",
+      "minecraft:snowy_taiga": "2020-12-31 00:47:08 +0000",
       "minecraft:birch_forest_hills": "2020-09-17 23:39:00 +0000",
       "minecraft:wooded_mountains": "2020-09-17 23:41:38 +0000",
       "minecraft:wooded_hills": "2020-09-17 23:17:35 +0000",
+      "minecraft:giant_tree_taiga_hills": "2020-12-31 01:50:49 +0000",
+      "minecraft:stone_shore": "2020-12-31 00:40:48 +0000",
       "minecraft:swamp": "2020-09-17 23:52:40 +0000",
+      "minecraft:snowy_taiga_hills": "2020-12-31 00:47:10 +0000",
       "minecraft:savanna": "2020-09-18 00:16:05 +0000",
       "minecraft:plains": "2020-09-17 23:17:37 +0000"
     },
@@ -1309,6 +1323,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2020-09-25 01:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-31 01:28:33 +0000"
     },
     "done": true
   },
